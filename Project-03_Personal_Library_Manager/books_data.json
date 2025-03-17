@@ -1,0 +1,79 @@
+[
+   {
+       "title": "Atomic Habits",
+       "author": "James Clear",
+       "year": 2018,
+       "genre": "Self-help",
+       "read": true
+   },
+   {
+       "title": "The 7 Habits of Highly Effective People",
+       "author": "Stephen R. Covey",
+       "year": 1989,
+       "genre": "Self-help",
+       "read": true
+   },
+   {
+       "title": "To Kill a Mockingbird",
+       "author": "Harper Lee",
+       "year": 1960,
+       "genre": "Fiction",
+       "read": false
+   },
+   {
+       "title": "1984",
+       "author": "George Orwell",
+       "year": 1949,
+       "genre": "Dystopian",
+       "read": false
+   },
+   {
+       "title": "The Alchemist",
+       "author": "Paulo Coelho",
+       "year": 1988,
+       "genre": "Fiction",
+       "read": true
+   },
+   {
+       "title": "Sapiens: A Brief History of Humankind",
+       "author": "Yuval Noah Harari",
+       "year": 2011,
+       "genre": "History",
+       "read": false
+   },
+   {
+       "title": "Rich Dad Poor Dad",
+       "author": "Robert T. Kiyosaki",
+       "year": 1997,
+       "genre": "Finance",
+       "read": true
+   },
+   {
+       "title": "The Subtle Art of Not Giving a F*ck",
+       "author": "Mark Manson",
+       "year": 2016,
+       "genre": "Self-help",
+       "read": false
+   },
+   {
+       "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+       "author": "Francesc Miralles, Héctor García",
+       "year": 2016,
+       "genre": "Philosophy",
+       "read": false
+   },
+   {
+       "title": "Thinking, Fast and Slow",
+       "author": "Daniel Kahneman",
+       "year": 2011,
+       "genre": "Psychology",
+       "read": false
+   },
+   {
+       "title": "The Power of Now",
+       "author": "Eckhart Tolle",
+       "year": 1997,
+       "genre": "Spirituality",
+       "read": false
+   }
+]
