@@ -169,6 +169,7 @@ elif st.session_state.current_page == "Login":
             if login_pass == "admin123":
                 reset_failed_attempts()
                 st.success("✅ Access granted.")
+
                 st.session_state.current_page = "Home"
                 st.rerun()
             else:
