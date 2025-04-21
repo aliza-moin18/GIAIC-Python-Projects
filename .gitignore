@@ -1,0 +1,6 @@
+# Ignore secret key file to keep it secure
+secret.key
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
